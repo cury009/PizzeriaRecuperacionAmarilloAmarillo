@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PizzeriaRecuperacionAmarilloAmarillo</string>
+    <string name="encarga_tu_pizza_online">Encarga tu pizza Online</string>
+    <string name="cantidad">cantidad</string>
+    <string name="nombre_pizza">Nombre Pizza</string>
+    <string name="todo">TODO</string>
+    <string name="siguiente">SIGUIENTE</string>
+    <string name="saldo_cuenta">Saldo cuenta:</string>
+
+    <string name="utilizar_saldo">UTILIZAR SALDO</string>
+    <string name="precio_base">Precio Base:</string>
+
+    <string name="iva">IVA:</string>
+    <string name="descuento_2x1">Descuento 2x1</string>
+    <string name="total">TOTAL</string>
+
+    <string name="_15">15</string>
+    <string name="precioresultdado">precioResultdado</string>
+    <string name="totalresultado">totalResultado</string>
+    <string name="ivaresultado">ivaResultado</string>
+    <string name="descuentoresultado">descuentoResultado</string>
+    <string name="pizza">pizza</string>
+    <string name="imagen">TODO</string>
+</resources>
